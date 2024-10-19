@@ -2,7 +2,7 @@
 Description
 A fully-functional chess game built with [mention your technologies, e.g., HTML, CSS, JavaScript, React]. This game allows players to engage in classic chess battles, with intuitive gameplay and a clean interface.
 
-#**Features** <br>
+**Features** <br>
 Two-player mode: Play against a friend in a local game.<br>
 Move validation: Ensures all moves are legal based on chess rules.<br>
 Check and Checkmate detection: Automatically detects these conditions during gameplay.<br>
