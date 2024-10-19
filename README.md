@@ -9,34 +9,24 @@ Check and Checkmate detection: Automatically detects these conditions during gam
 Piece highlighting: Highlights potential moves for selected pieces.
 Undo/Redo functionality: Step back or forward in the game with ease.
 Responsive design: Play on both desktop and mobile devices.
-Installation
-Clone the repository:
-
-bash
-Copy code
-git clone https://github.com/yourusername/chess-game.git
-Navigate to the project directory:
-
-bash
-Copy code
-cd chess-game
-Open the index.html file in your browser, or run the development server (if applicable).
 
 Usage
-Start the game by [mention how the game starts, e.g., clicking on "New Game"].
+Start the game.
 Move your pieces by clicking and dragging (or tapping on mobile).
-The game automatically detects check, checkmate, and stalemate conditions.
-How to Play
-If you're new to chess or want to refresh your memory, here’s a brief overview:
+The game automatically detects check, checkmate, and stalemate conditions.<br>
 
-Goal: Capture your opponent’s king (checkmate).
-How to move: Each piece has its own movement rules. For example:
-Pawns: Move one square forward (or two on the first move) and capture diagonally.
-Rooks: Move any number of squares vertically or horizontally.
-Knights: Move in an "L" shape.
-[You can include more details or a reference to rules if needed.]
-Contributions
-Feel free to fork the project and submit pull requests to improve the game or add new features.
+How to Play <br>
+If you're new to chess or want to refresh your memory, here’s a brief overview:<br>
 
-License
-This project is licensed under the MIT License.
+Goal: Capture your opponent’s king (checkmate).<br>
+How to move: Each piece has its own movement rules. For example:<br>
+Pawns: Move one square forward (or two on the first move) and capture diagonally.<br>
+Rooks: Move any number of squares vertically or horizontally.<br>
+Knights: Move in an "L" shape.<br>
+[You can include more details or a reference to rules if needed.]<br>
+
+Contributions<br>
+Feel free to fork the project and submit pull requests to improve the game or add new features.<br>
+
+License<br>
+This project is licensed under the MIT License.<br>
