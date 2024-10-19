@@ -5,16 +5,14 @@ This game allows players to engage in classic chess battles, with intuitive game
 
 ## Enjoy the Game! <br>
 Feel free to try out the game and enjoy a classic match of chess!<br>
+<br>
 **Play the Game Here<br>**
 https://sanchit1002.github.io/Sanchit-Chess-Game/
-
 
 ## Features <br>
 **Two-player mode:** Play against a friend in a local game.<br>
 **Move validation:** Ensures all moves are legal based on chess rules.<br>
 **Check and Checkmate detection:** Automatically detects these conditions during gameplay.<br>
-**Piece highlighting:** Highlights potential moves for selected pieces.<br>
-**Undo/Redo functionality:** Step back or forward in the game with ease.<br>
 **Responsive design:** Play on both desktop and mobile devices.<br>
 
 ## Usage<br>
