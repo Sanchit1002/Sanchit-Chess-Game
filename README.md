@@ -3,10 +3,10 @@ Description
 A fully-functional chess game built with HTML, CSS, JavaScript. <br> 
 This game allows players to engage in classic chess battles, with intuitive gameplay and a clean interface.<br> 
 
-**Features** <br>
+# Features <br>
 **Two-player mode:** Play against a friend in a local game.<br>
 **Move validation:** Ensures all moves are legal based on chess rules.<br>
-# Check and Checkmate detection: ## Automatically detects these conditions during gameplay.<br>
+Check and Checkmate detection: Automatically detects these conditions during gameplay.<br>
 Piece highlighting: Highlights potential moves for selected pieces.<br>
 Undo/Redo functionality: Step back or forward in the game with ease.<br>
 Responsive design: Play on both desktop and mobile devices.<br>
