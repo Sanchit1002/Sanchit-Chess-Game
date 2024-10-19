@@ -5,7 +5,7 @@ This game allows players to engage in classic chess battles, with intuitive game
 
 ## Enjoy the Game! <br>
 Feel free to try out the game and enjoy a classic match of chess!<br>
-Play the Game Here<br>
+**Play the Game Here<br>**
 https://sanchit1002.github.io/Sanchit-Chess-Game/
 
 
